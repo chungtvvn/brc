@@ -1,0 +1,15 @@
+Package: BRC
+Section: Tweak
+Maintainer: Blue <chungtv.vn@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap, com.autopear.installipa
+Filename: debs//brc.deb
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: 
+Name: 
+Author: Blue <chungtv.vn@gmail.com>
+
